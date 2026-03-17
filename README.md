@@ -39,5 +39,8 @@ This projects aims to:
 - Interpretation and insight: Key factors influencing churn are Totalcharges, monthlycharges, tenure, contract type
 - Insight: Cuustomers with Total charges and monthly billing showed higher churn probabilty
 
-- Recommendations: offer incentives to long term customer, improve customer support responsive, provide flexible contract options
+## Recommendations 
+- Offer incentives to long term customer 
+- Improve customer support responsive
+- Provide flexible contract options
 
