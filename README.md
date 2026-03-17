@@ -43,4 +43,5 @@ This projects aims to:
 - Offer incentives to long term customer 
 - Improve customer support responsive
 - Provide flexible contract options
+- Best performing model: Logistic Regression, then Random Forest Classifiers
 
